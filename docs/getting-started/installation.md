@@ -9,7 +9,7 @@ pip install design-loop-ai
 ## From Source
 
 ```bash
-git clone https://github.com/Lumi-node/design-loop-ai.git
+git clone https://github.com/Automate-Capture/design-loop-ai.git
 cd design-loop-ai
 pip install -e ".[dev]"
 ```

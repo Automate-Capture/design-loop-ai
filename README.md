@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Lumi-node/design-loop-ai"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License Badge"></a>
+  <a href="https://github.com/Automate-Capture/design-loop-ai"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License Badge"></a>
   <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-3.10%2B-blue.svg" alt="Python Version Badge"></a>
-  <a href="https://github.com/Lumi-node/design-loop-ai"><img src="https://img.shields.io/badge/Metrics_Tests-44_pass-green.svg" alt="Test Count Badge"></a>
+  <a href="https://github.com/Automate-Capture/design-loop-ai"><img src="https://img.shields.io/badge/Metrics_Tests-44_pass-green.svg" alt="Test Count Badge"></a>
 </p>
 
 ---
@@ -34,7 +34,7 @@ pip install design-loop-ai
 Or install from source:
 
 ```bash
-git clone https://github.com/Lumi-node/design-loop-ai.git
+git clone https://github.com/Automate-Capture/design-loop-ai.git
 cd design-loop-ai
 pip install -e ".[dev]"
 ```
@@ -203,5 +203,5 @@ Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) for gu
 MIT
 
 ---
-**Repository:** https://github.com/Lumi-node/design-loop-ai
+**Repository:** https://github.com/Automate-Capture/design-loop-ai
 **Author:** Andrew Young, Automate Capture Research
